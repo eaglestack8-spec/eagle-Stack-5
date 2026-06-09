@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Salon & Barber Studio",
+  "description": "A premium, fully responsive luxury salon and barber website featuring rich style showcases, services, a dynamic booking module, interactive lightbox gallery, and stats counters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
